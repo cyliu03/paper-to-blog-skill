@@ -1,0 +1,6 @@
+interface:
+  display_name: "论文精读双平台发布"
+  short_description: "精读AI与脑机接口论文，并完成可追溯的CSDN草稿"
+  default_prompt: "Use $paper-to-blog to turn this paper into a traceable Chinese deep-reading blog and save a verified CSDN draft."
+policy:
+  allow_implicit_invocation: true
